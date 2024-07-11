@@ -72,6 +72,25 @@ Step 5: Configure Deparments -> Add New Department -> set parameters. ex: Top Le
 <br />
 <p>
 
-Step 6: Configure Teams -> Admin Panel -> Add New Team -> Fill out parameters (ex: Name: Level II Support, Members: James Milton) -> Create Team
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/9130c697-f4a6-4c51-b128-d672c09f423f)
+Step 6: Configure Teams -> Admin Panel -> Add New Team -> Fill out parameters (ex: Name: Level II Support, Members: Jerry Lu) -> Create Team
+</p>
+<br />
+
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/016770a0-b98e-4508-98f0-6cefbadeaee7)
+<p>
+Step 7: Allow anyone to create a ticket. Admin Panel -> Settings -> Users -> Uncheck "Registration Required" -> Save Changes
+</p>
+<br />
+
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/341b37ae-9dcd-489e-b827-0875188f9782)
+<p>
+Step 8: Configure Agents -> Admin Panel -> Agents -> -> Fill out parameters -> ex:Add New Agent(ex: Cameron Jones) 
+</p>
+<br />
+
+
+<p>
+Set Agent Password -> Uncheck Sent the Agent a Password Again -> Uncheck REquire Password at Next Login -> Click Set -> Create
 </p>
 <br />
