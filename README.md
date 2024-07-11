@@ -89,8 +89,29 @@ Step 8: Configure Agents -> Admin Panel -> Agents -> -> Fill out parameters -> e
 </p>
 <br />
 
-
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/76e89f20-25c5-4e04-949d-aa75d7d9a5ae)
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/d9a6e91c-721b-42f4-98ac-24971171f1f0)
 <p>
-Set Agent Password -> Uncheck Sent the Agent a Password Again -> Uncheck REquire Password at Next Login -> Click Set -> Create
+Step 9: Set Agent Password -> Uncheck Sent the Agent a Password Again -> Uncheck REquire Password at Next Login -> Click Set -> Create
+</p>
+<br />
+
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/9bbd463c-60fa-4323-a2cb-a540de3b54c7)
+<p>
+Step 10: Configure Users -> Agent Panel -> Users -> Add User -> Fill out parameters -> ex:(Ken Smith)
+</p>
+<br />
+
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/b7710bf0-8b8d-4e00-8adc-b879da13ccf0)
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/3a39bbba-38db-436b-8c40-01512bd5419e)
+<p>
+Step 11: Configure SLA -> Admin Panel -> Manage -> SLA -> Add New SLA Plan -> Fill out Parameters -> Incident classification ex:(SEV-A: Severity Strongest) -> Add Plan
+</p>
+<br />
+
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/c8ae6806-8581-453c-83ae-f0de03b75775)
+![image](https://github.com/kiesun01/post-install-config/assets/132006466/cebd3396-ea48-4299-8a64-f88c76fb7dc9)
+<p>
+Step 12: Configure Help Topics -> Admin Panel -> Manage -> Help Topics -> Add New Help Topic -> Fill out Parameters -> ex:(Topic: Business Critical Outage) -> Add Topic
 </p>
 <br />
